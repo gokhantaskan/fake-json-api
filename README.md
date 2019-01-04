@@ -1,4 +1,4 @@
-# Creating fake JSON database 
+# Creating fake JSON API
 
 ## Dependencies
 
