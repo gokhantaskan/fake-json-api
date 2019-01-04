@@ -1,0 +1,18 @@
+{
+  "name": "fake-json-database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "json-server --watch generate.js",
+    "db": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "Gokhan Taskan",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.14.2",
+    "lodash": "^4.17.11"
+  }
+}
