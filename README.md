@@ -39,5 +39,3 @@ module.exports = function () {
 ## JSON Server and the Output
 
 I created `npm run generate` script to generate JSON file on `localhost:3000` with the help of [json-server](https://pages.github.com/)
-
-> https://egghead.io/lessons/javascript-creating-demo-apis-with-json-server
